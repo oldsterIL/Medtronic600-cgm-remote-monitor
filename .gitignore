@@ -1,0 +1,9 @@
+*.pyc
+read_minimed.db
+/.idea
+/.git
+for_test.py
+get_history_pump.py
+scripts/chech_flash.sh
+scripts/sms_check.sh
+/scripts/on_line.sh
