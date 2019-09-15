@@ -6,5 +6,5 @@
  [Настройка скриптов](./scripts/readme.md)  
  [Шаблоны Zabbix\Grafana](./zabbix/readme.md)  
  
- Статья на Хабре
+ [Статья на Хабре](https://habr.com/ru/post/465281/)
  
