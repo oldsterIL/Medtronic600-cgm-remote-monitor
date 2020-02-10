@@ -211,7 +211,7 @@ sudo nano /etc/systemd/system/ppp.service
 ```
 Добавляем:
 ```bash
-Unit]
+[Unit]
 Description=PRi UART PPP Link
 After=syslog.target
 After=network.target
