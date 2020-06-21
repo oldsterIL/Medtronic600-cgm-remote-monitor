@@ -250,7 +250,7 @@ sudo systemctl disable gammu-smsd.service
 ```
 ### Установим Zabbix-agent
 ```bash
-sudo apt-get install zabbix-agent
+sudo apt-get install zabbix-agent zabbix-sender
 ```
 Отключим автозапуск
 ```bash
