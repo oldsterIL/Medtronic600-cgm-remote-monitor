@@ -271,6 +271,8 @@ sudo -H pip install hidapi
 sudo -H pip install requests astm PyCrypto crc16 python-dateutil
 sudo -H pip install python-lzo
 sudo -H pip install pytz
+sudo -H pip install pyTelegramBotAPI
+sudo -H pip install requests[socks]
 ```
 ### Внесем изменения в настройки системы
 Разрешим пользователю "pi" общаться с Contour NextLink 2.4 USB, создадим файл 
