@@ -8,7 +8,7 @@ pycrypto==2.6.1
 pymongo==3.5.1
 python-dateutil==2.6.1
 python-lzo==1.11
-requests==2.20.0
+requests==2.31.0
 six==1.10.0
 transitions==0.6.0
 urllib3==1.26.5
